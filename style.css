@@ -1,0 +1,16 @@
+
+#week {
+    display: flex;
+    flex-flow: column nowrap; 
+    text-align: center;
+    border-radius: 12px;
+    padding: 1rem;
+}
+
+.container {
+    width: 12em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
